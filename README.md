@@ -1,10 +1,11 @@
 # Personal Portfolio
 
+## Project Overview  
 This project is a modern, responsive personal portfolio website developed using HTML and CSS. It is designed to present my academic background, technical skills, projects, and certifications in a structured and visually appealing manner.
 
 ---
 
-## Live Demo  
+## Repository Link  
 https://github.com/Sneha-Jayamohanan/Portfolio.git
 
 ---
@@ -42,6 +43,23 @@ A web-based civic platform that allows users to report local infrastructure issu
 
 ### Guardian Angel  
 A tracking application integrated with an interactive map using React and OpenStreetMap.
+
+---
+
+## Setup Instructions  
+
+1. Clone the repository:
+   git clone https://github.com/Sneha-Jayamohanan/Portfolio.git  
+
+2. Navigate to the project folder:
+   cd portfolio  
+
+---
+
+## How to Run the Project  
+
+1. Open the project folder.  
+2. Open the `index.html` file in any web browser.  
 
 ---
 
